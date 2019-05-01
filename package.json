@@ -2,7 +2,7 @@
   "name": "smartbrain",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kamalshanth163.github.io/smartbrain",
+  "homepage": "https://kamalshanth163.github.io/smartbrain/",
   "dependencies": {
     "clarifai": "^2.9.0",
     "gh-pages": "^2.0.1",
